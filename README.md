@@ -8,5 +8,4 @@ d) **Keyboard Controls**
 e) **Chatbot Toggle** — UI prepared for future AI assistant
 f) **Anime Facts Box** — appears when song is paused.
 g) **Fully Responsive Design** — optimized for all screen sizes
-# DEMO VIDEO
-https://drive.google.com/file/d/1G41z2yUUCvm5aCROP79VKcl0VkG62Pvg/view?usp=sharing.
+
